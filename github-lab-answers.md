@@ -34,3 +34,8 @@ git merge
 Why would you want to use a branch other than the default master?
 to navigate through the project
 
+Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged
+to merge 2 commit  and to delete an obsolete branch
+
+What command do you use to send all of the work that you've done locally to your remote repository?
+$ git push
