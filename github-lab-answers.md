@@ -23,3 +23,14 @@ Why is it important to use -- when changing files back to a previous state?
 
 Why might you want to reset your files back to a previous commit?
 because of an error in the code 
+
+
+What command do you use to create a branch?
+git branch
+
+What command do you use to use a different branch?
+git merge
+
+Why would you want to use a branch other than the default master?
+to navigate through the project
+
